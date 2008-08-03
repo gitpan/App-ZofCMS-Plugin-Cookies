@@ -10,6 +10,9 @@ my $builder = Module::Build->new(
     build_requires => {
         'Test::More' => 0,
     },
+    requires => {
+        'App::ZofCMS' => 0.0103,
+    },
     add_to_cleanup      => [ 'App-ZofCMS-Plugin-Cookies-*' ],
     create_makefile_pl => 'traditional',
 );
