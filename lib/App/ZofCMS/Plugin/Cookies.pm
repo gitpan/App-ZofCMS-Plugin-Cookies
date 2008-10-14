@@ -3,7 +3,7 @@ package App::ZofCMS::Plugin::Cookies;
 use warnings;
 use strict;
 
-our $VERSION = '0.0102';
+our $VERSION = '0.0103';
 
 sub new { return bless {}, shift }
 

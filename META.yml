@@ -1,6 +1,6 @@
 ---
 name: App-ZofCMS-Plugin-Cookies
-version: 0.0102
+version: 0.0103
 author:
   - 'Zoffix Znet <zoffix@cpan.org>'
 abstract: HTTP Cookie handling plugin for ZofCMS
@@ -14,7 +14,7 @@ build_requires:
 provides:
   App::ZofCMS::Plugin::Cookies:
     file: lib/App/ZofCMS/Plugin/Cookies.pm
-    version: 0.0102
+    version: 0.0103
 generated_by: Module::Build version 0.2808
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
