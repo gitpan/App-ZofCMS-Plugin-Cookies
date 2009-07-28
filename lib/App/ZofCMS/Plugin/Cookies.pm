@@ -3,7 +3,7 @@ package App::ZofCMS::Plugin::Cookies;
 use warnings;
 use strict;
 
-our $VERSION = '0.0103';
+our $VERSION = '0.0104';
 
 sub new { return bless {}, shift }
 
@@ -177,7 +177,7 @@ That's all there is to it, enjoy!
 =head1 AUTHOR
 
 Zoffix Znet, C<< <zoffix at cpan.org> >>
-(L<http://zoffix.com>, L<http://haslayout.net>)
+(L<http://zoffix.com>, L<http://haslayout.net>, L<http://zofdesign.com>)
 
 =head1 BUGS
 

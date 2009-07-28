@@ -1,21 +1,23 @@
 ---
 name: App-ZofCMS-Plugin-Cookies
-version: 0.0103
+version: 0.0104
 author:
   - 'Zoffix Znet <zoffix@cpan.org>'
 abstract: HTTP Cookie handling plugin for ZofCMS
 license: perl
 resources:
   license: http://dev.perl.org/licenses/
-requires:
-  App::ZofCMS: 0.0103
 build_requires:
   Test::More: 0
+requires:
+  App::ZofCMS: 0.0103
+configure_requires:
+  Module::Build: 0.34
 provides:
   App::ZofCMS::Plugin::Cookies:
     file: lib/App/ZofCMS/Plugin/Cookies.pm
-    version: 0.0103
-generated_by: Module::Build version 0.2808
+    version: 0.0104
+generated_by: Module::Build version 0.34
 meta-spec:
-  url: http://module-build.sourceforge.net/META-spec-v1.2.html
-  version: 1.2
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
