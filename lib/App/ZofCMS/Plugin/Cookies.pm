@@ -3,7 +3,7 @@ package App::ZofCMS::Plugin::Cookies;
 use warnings;
 use strict;
 
-our $VERSION = '0.0104';
+our $VERSION = '0.0105';
 
 sub new { return bless {}, shift }
 
@@ -38,6 +38,8 @@ sub process {
 
 1;
 __END__
+
+=encoding utf8
 
 =head1 NAME
 

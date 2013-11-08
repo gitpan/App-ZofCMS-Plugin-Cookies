@@ -1,14 +1,17 @@
 Revision history for App-ZofCMS-Plugin-Cookies
 
-0.0104  July 27, 2009
-        Added my links
+0.0105  2013-11-07
+        - Minor fixes to comply with specs and Kwalitee game
 
-0.0103  Ocotber 13, 2008
-        Fixed broken test suit
+0.0104  2009-07-27
+        - Added my links
 
-0.0102  August 3, 2008
-        Fixed broken prereqs
+0.0103  2008-10-13
+        - Fixed broken test suit
 
-0.0101  July 27, 2008
-        First version, released on an unsuspecting world.
+0.0102  2008-08-03
+        - Fixed broken prereqs
+
+0.0101  2008-07-27
+        - First version, released on an unsuspecting world.
 
